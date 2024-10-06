@@ -6,13 +6,13 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #007bff;
     margin: 0;
     padding: 0;
 }
 
 nav {
-    background-color: #4CAF50;
+    background-color: #5c21bb;
     padding: 10px;
     color: white;
     text-align: center;
@@ -30,6 +30,7 @@ h5 {
     background-color: white;
     border-radius: 8px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    background-image: url('../images/ciel.jpg');
 }
 
 .form-group {
@@ -46,14 +47,14 @@ button {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #6e4ca5;
     color: white;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #5c21bb;
 }
 
 .weather-card {
